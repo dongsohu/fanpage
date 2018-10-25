@@ -17,3 +17,26 @@ a {
     width: 30px;
     margin: 15px;
 }
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.header{
+    display:flex;
+    justify-content:center;
+}
+.social{
+    display: flex;
+    justify-content: space-around;
+}
+.thumbnail-image{
+    height:200px;
+    width: 250px;
+}
+.name{
+    
+}
+.gallery{
+     display: flex;
+    justify-content: space-between;
+}
