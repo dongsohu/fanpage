@@ -19,7 +19,7 @@ a {
 }
 .navbar{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .header{
     display:flex;
@@ -34,9 +34,10 @@ a {
     width: 250px;
 }
 .name{
-    
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
 }
 .gallery{
      display: flex;
-    justify-content: space-around;
+    justify-content: flex-start;
 }
