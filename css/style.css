@@ -74,3 +74,15 @@ html{
     height:400px;
     
 }
+.name1{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: 20px;
+    color:white;
+}
+.name2{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: 20px;
+    color:black;
+}
